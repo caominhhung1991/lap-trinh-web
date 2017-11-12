@@ -35,8 +35,7 @@ import { PhieuXuatKhoComponent } from './phieu-xuat-kho/phieu-xuat-kho.component
     AdminRoutingModule,
     RouterModule,
     GuestModule,
-    ComponentModule,
-    Ng2FileInputModule.forRoot()
+    ComponentModule
   ],
   declarations: [
     AdminComponent,
